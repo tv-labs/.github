@@ -18,6 +18,8 @@ TV Labs builds tools that solve real problems in Smart TV app development and te
 
 * [TV Labs WebdriverIO Service](https://github.com/tv-labs/wdio-tvlabs-service) - optimizes Appium to run on the TV Labs platform
 
+* [Kibana Query Language (KQL) parser](https://github.com/tv-labs/kql) - an Elixir parser for the [Kibana Query Language](https://www.elastic.co/docs/explore-analyze/query-filter/languages/kql)
+
 * [Elixir Secure Coding](https://github.com/erlef/elixir-secure-coding) - supported and maintained by TV Labs
 
 * [OpenID Connect](https://github.com/DockYard/openid_connect) - supported and maintained by TV Labs
