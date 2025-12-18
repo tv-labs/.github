@@ -20,6 +20,8 @@ TV Labs builds tools that solve real problems in Smart TV app development and te
 
 * [Kibana Query Language (KQL) parser](https://github.com/tv-labs/kql) - an Elixir parser for the [Kibana Query Language](https://www.elastic.co/docs/explore-analyze/query-filter/languages/kql)
 
+* [Jira Query Language (JQL) DSL](https://github.com/tv-labs/jql) - An Ecto-like DSL for the [Jira Query Language (JQL)](https://support.atlassian.com/jira-service-management-cloud/docs/use-advanced-search-with-jira-query-language-jql/)
+
 * [Elixir Secure Coding](https://github.com/erlef/elixir-secure-coding) - supported and maintained by TV Labs
 
 * [OpenID Connect](https://github.com/DockYard/openid_connect) - supported and maintained by TV Labs
